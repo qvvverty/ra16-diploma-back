@@ -1,4 +1,4 @@
-@url = http://localhost:7070
+@url = https://hidden-journey-70843.herokuapp.com
 
 ###
 
